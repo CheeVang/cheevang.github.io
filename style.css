@@ -10,5 +10,5 @@ h1 {
   font-family: Palatino, 'Palatino Linotype', serif;
   color: rgb(121,149,117);
 }
-h3 {height: 100%; margin: 0, text-align: left;}
-p {height: 100%; margin: 0, text-align: left;}
+h3 {height: 100%; margin: 0, text-align: left; width: 100%}
+p {height: 100%; margin: 0, text-align: left; width: 100%}
